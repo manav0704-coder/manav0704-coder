@@ -27,19 +27,63 @@ Here's a list of technologies and tools I've worked with:
 
 ## 🌟 Projects
 
-### [E-commerce Website](link to project)
-A functional e-commerce website with features like product listings, user authentication, shopping cart management, and order processing. It is responsive and user-friendly, ensuring a smooth experience on both desktop and mobile. 🔗 https://swadeshi-e-commerce.netlify.app/
+## 🌟 Projects
 
-### [kd's photography ](link to project)
-Description of the project and the technologies used.
+### [Swadeshi E-Commerce](https://swadeshi-e-commerce.netlify.app/)
+Swadeshi E-Commerce is a fully functional e-commerce website developed with a focus on providing users with a seamless shopping experience. The website incorporates a range of essential features, including product listings, user authentication, shopping cart management, and order processing.
 
-### [luxury-cars landing page ](link to project)
+- **Features:**
+  - **Product Listings:** Browse through a wide range of products categorized for easy navigation.
+  - **User Authentication:** Secure registration and login functionality to manage user accounts.
+  - **Shopping Cart Management:** Add products to the cart, update quantities, and proceed to checkout seamlessly.
+  - **Order Processing:** Complete the purchase process with order confirmation and payment processing.
+  - **Responsive Design:** The website is optimized for both desktop and mobile devices, ensuring a consistent and user-friendly experience across all platforms.
+
+- **Tech Stack:**
+  - **Frontend:** HTML, CSS, JavaScript
+  - **Backend:** (If applicable, otherwise mention it's frontend-only)
+  - **Frameworks/Libraries:** Bootstrap (for responsive design)
+
+- **Link:** 🔗[Swadeshi E-Commerce](https://swadeshi-e-commerce.netlify.app/)
+
+## 🌟 Projects
+
+### [KD's Photo Studio](https://kd-photography.netlify.app/)
+I created my first working website as a freelancer for KD's Photo Studio. The site features a simple and user-friendly interface, allowing visitors to easily explore various photo albums and contact the studio. The project was developed using HTML, CSS, and JavaScript.
+
+- **Features:**
+  - **Photo Albums:** Browse through different albums showcasing a variety of photos.
+  - **Contact Form:** Simple and functional contact form to get in touch with the studio.
+  - **Responsive Design:** Ensures optimal viewing experience across different devices.
+
+- **Tech Stack:**
+  - **HTML:** Structure and content of the website.
+  - **CSS:** Styling and layout of the website.
+  - **JavaScript:** Interactive features and form validation.
+
+- **Link:** 🔗[KD's Photo Studio](https://kd-photography.netlify.app/)
+
+
+
+## 🌟 Projects
+
+### [Luxury Car Landing Page][(https://lx-car-landing.netlify.app/)]
+As an intern at Codsoft, I had the opportunity to develop a stunning Luxury Car Landing Page. This project showcases a variety of luxury cars with a sleek and responsive layout, ensuring an immersive experience for visitors.
+
+- **Features:**
+  - **Responsive Layout:** The landing page is designed to adapt seamlessly to various screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
+  - **Variety of Cars Album:** Visitors can explore a diverse range of luxury cars showcased in an interactive album format, allowing them to view high-quality images and detailed descriptions.
+  - **HTML, CSS, and JavaScript:** The project is built using a combination of HTML for structure, CSS for styling, and JavaScript for interactive elements, ensuring a smooth and engaging user experience.
+
+- **Tech Stack:**
+  - **Frontend:** HTML, CSS, JavaScript
+- **Link:** [Luxury Car Landing Page](https://lx-car-landing.netlify.app/)
 
 
 ## 📫 How to Reach Me
 
 - LinkedIn: [Manav Pardeshi](https://www.linkedin.com/in/manav-pardeshi-he-him-455702236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [521manavpardeshi253@gmail.com](mailto:521manavpardeshi253@gmail.com)
 
 ## 📊 GitHub Stats
 
