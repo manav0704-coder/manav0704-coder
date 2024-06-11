@@ -25,7 +25,6 @@ Here's a list of technologies and tools I've worked with:
 ### JavaScript Frameworks
 - Node.js
 
-## 🌟 Projects
 
 ## 🌟 Projects
 
