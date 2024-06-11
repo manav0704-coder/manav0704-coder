@@ -28,7 +28,7 @@ Here's a list of technologies and tools I've worked with:
 ## 🌟 Projects
 
 ### [E-commerce Website](link to project)
-Description of the project and the technologies used.
+A functional e-commerce website with features like product listings, user authentication, shopping cart management, and order processing. It is responsive and user-friendly, ensuring a smooth experience on both desktop and mobile. 🔗 https://swadeshi-e-commerce.netlify.app/
 
 ### [kd's photography ](link to project)
 Description of the project and the technologies used.
@@ -38,7 +38,7 @@ Description of the project and the technologies used.
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [Manav Pardeshi](https://www.linkedin.com/in/manav-pardeshi-he-him-455702236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: [your.email@example.com](mailto:your.email@example.com)
 
 ## 📊 GitHub Stats
