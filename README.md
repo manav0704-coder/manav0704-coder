@@ -1,6 +1,6 @@
 # Hi there, I'm Manav Pardeshi! 👋
 
-Welcome to my GitHub profile! I'm a Bachelor of Business Administration student specializing in Computer Applications. I'm passionate about coding, web development, and leveraging technology to solve business & & technical problems.
+Welcome to my GitHub profile! I'm a Bachelor of Business Administration student specializing in Computer Applications. I'm passionate about coding, web development, and leveraging technology to solve business & technical problems.
 
 ## 👨‍💻 About Me
 
