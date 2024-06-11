@@ -40,8 +40,8 @@ Swadeshi E-Commerce is a fully functional e-commerce website developed with a fo
 
 - **Tech Stack:**
   - **Frontend:** HTML, CSS, JavaScript
-  - **Backend:** (If applicable, otherwise mention it's frontend-only)
-  - **Frameworks/Libraries:** Bootstrap (for responsive design)
+  - **Backend:** Nodejs
+  - **database:** Mysql
 
 - **Link:** 🔗[Swadeshi E-Commerce](https://swadeshi-e-commerce.netlify.app/)
 
