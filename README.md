@@ -48,7 +48,7 @@ Swadeshi E-Commerce is a fully functional e-commerce website developed with a fo
 
 ## 🌟 Projects
 
-### [KD's Photo Studio](https://kd-photography.netlify.app/)
+### [Kd's Photography](https://kd-photography.netlify.app/)
 I created my first working website as a freelancer for KD's Photo Studio. The site features a simple and user-friendly interface, allowing visitors to easily explore various photo albums and contact the studio. The project was developed using HTML, CSS, and JavaScript.
 
 - **Features:**
@@ -67,7 +67,7 @@ I created my first working website as a freelancer for KD's Photo Studio. The si
 
 ## 🌟 Projects
 
-### [Luxury Car Landing Page][(https://lx-car-landing.netlify.app/)]
+### [Luxury Car Landing Page](https://lx-car-landing.netlify.app/)
 As an intern at Codsoft, I had the opportunity to develop a stunning Luxury Car Landing Page. This project showcases a variety of luxury cars with a sleek and responsive layout, ensuring an immersive experience for visitors.
 
 - **Features:**
@@ -77,7 +77,7 @@ As an intern at Codsoft, I had the opportunity to develop a stunning Luxury Car 
 
 - **Tech Stack:**
   - **Frontend:** HTML, CSS, JavaScript
-- **Link:** [Luxury Car Landing Page](https://lx-car-landing.netlify.app/)
+- **Link:**  🔗[Luxury Car Landing Page](https://lx-car-landing.netlify.app/)
 
 
 ## 📫 How to Reach Me
